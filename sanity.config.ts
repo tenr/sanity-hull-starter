@@ -33,7 +33,7 @@ const iframeOptions = {
 export default defineConfig({
   basePath: '/studio',
   name: 'project-name',
-  title: 'Project Name',
+  title: 'G Project',
   projectId,
   dataset,
   //edit schemas in './src/schemas'
